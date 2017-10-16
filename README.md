@@ -7,10 +7,10 @@ Fork only! Please do so as instructed during the duration of the interview. We w
 The following project is split into 4 parts:
 
  
-##1 Core (15mins)
-##2 Understanding Code Workflow (15mins)
-##3 Algorithms & Problem Solving (30mins)
-##4 Creativity (24hours)
+## 1 Core (15mins)
+## 2 Understanding Code Workflow (15mins)
+## 3 Algorithms & Problem Solving (30mins)
+## 4 Creativity (24hours)
 
 ### Prerequisites
 

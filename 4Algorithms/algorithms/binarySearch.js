@@ -4,4 +4,6 @@
 module.exports = exports = function(input, value) {
   var bottom = 0, top = input.length - 1, index = null;
 //  complete the function
+
+
 };

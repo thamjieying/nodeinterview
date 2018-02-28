@@ -3,4 +3,8 @@
 */
 module.exports = exports = function(input) {
   //  complete the function
+
+  for(let i=0; i<input.length; i++){
+    
+  }
 };
